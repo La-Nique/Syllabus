@@ -1,7 +1,5 @@
 # CST 2301: Multimedia and Mobile Device Programming
-## (3 credits, 2 class hours, 2 lab hours)
-### Computer Systems Technology Department
-### New York City College of Technology
+(3 credits, 2 class hours, 2 lab hours), Computer Systems Technology Department, New York City College of Technology
 
 ## Details 
 
