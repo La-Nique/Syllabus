@@ -93,7 +93,7 @@ Attendance is expected at every class meeting.
 The instructor of the course has the authority to give a grade of **F** if the
 student submits the work of another person in a manner that represents his/her
 work, or knowingly permits one’s work to be submitted by another person without
-the instructor’s permission.
+the instructor’s permission. Please see the [CUNY Policy on Academic Integrity](http://www.citytech.cuny.edu/aboutus/docs/policies/CUNY_ACADEMIC_INTEGRITY_6-2011.pdf) for more details.
 
 ## Grade Requirement
 
@@ -111,7 +111,6 @@ For the successful completion of this course a student should be able to:
 1. Understand the role of threads on the local device.  
 1. Understand the `Activity` life-cycle. 
 1. Appreciate the challenges of creating mobile applications.
-
 
 ## Evaluation methods and Criteria 
 
