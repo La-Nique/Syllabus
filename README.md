@@ -95,6 +95,17 @@ student submits the work of another person in a manner that represents his/her
 work, or knowingly permits one’s work to be submitted by another person without
 the instructor’s permission. Please see the [CUNY Policy on Academic Integrity](http://www.citytech.cuny.edu/aboutus/docs/policies/CUNY_ACADEMIC_INTEGRITY_6-2011.pdf) for more details.
 
+## Notes
+
+- **Deadlines** and **due dates** for assignments will be assigned in class.
+- **Late assignments will be penalized.**
+- Assignments are the result of individual effort unless otherwise noted (e.g., group projects).
+- Tests are 60 minutes.
+- Test make-ups will be given if only if:
+    - the request is made sufficiently in advance of the test, and
+    - the make-up is scheduled prior to the next class.
+- No make-ups will be given for quizzes.
+
 ## Grade Requirement
 
 All majors in CST, CIS, MS, and CIB must attain a grade of C or better in all
