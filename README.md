@@ -209,3 +209,38 @@ Family Policy Compliance Office
 U.S. Department of Education
 400 Maryland Avenue, SW
 Washington, D.C. 20202-8520
+
+## Tentative Schedule
+The following is a target scheduling guideline. Please see the Blackboard calendar for actual dates and lessons.
+
+Date | Topic 
+---- | ----- 
+August 31, 2015 | Course introduction. Discuss syllabus, objects, mobile programming and development environments.
+September 2, 2015 | Types, Variables, Operators Part I.
+September 9, 2015 | Types, Variables, Operators Part II.
+September 16, 2015 | More types, methods, conditionals.
+September 21, 2015 | Loops and arrays.
+September 28, 2015 | Objects and classes.
+September 30, 2015 | Access control, class scope, packages, Java API.
+October 5, 2015 | Design, debugging, interfaces.
+October 7, 2015 | Inheritance, exceptions, file I/O.
+October 14, 2015 |  
+October 19, 2015 |  
+October 21, 2015 | 
+October 26, 2015 | Review for midterm exam.
+October 28, 2015 | Midterm exam.
+November 2, 2015 | 
+November 4, 2015 | 
+November 9, 2015 |
+November 11, 2015 | 
+November 16, 2015 | 
+November 18, 2015 | 
+November 23, 2015 | 
+November 25, 2015 | 
+November 30, 2015 | 
+December 2, 2015 | 
+December 7, 2015 | 
+December 9, 2015 | 
+December 14, 2015 | 
+December 21, 2015 | 
+
