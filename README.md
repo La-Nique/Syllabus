@@ -249,6 +249,6 @@ November 30, 2015 |
 December 2, 2015 | 
 December 7, 2015 | 
 December 9, 2015 | 
-December 14, 2015 | 
-December 21, 2015 | 
+December 14, 2015 | Final exam review.
+December 21, 2015 | Final exam.
 
