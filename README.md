@@ -97,7 +97,7 @@ the instructor’s permission. Please see the [CUNY Policy on Academic Integrity
 
 - **Deadlines** and **due dates** for assignments will be assigned in class.
 - **Late assignments will be penalized.**
-- Assignments are the result of individual effort unless otherwise noted (e.g., group projects). Note that the instructor is required to **report all violations to the college**.
+- Assignments are the result of **individual effort unless otherwise specified** (e.g., group projects). Note that the instructor is required to **report all violations to the college**.
 - Tests are 60 minutes.
 - Test make-ups will be given if only if:
     - the request is made sufficiently in advance of the test, and
