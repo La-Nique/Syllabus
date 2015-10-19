@@ -103,6 +103,7 @@ the instructor’s permission. Please see the [CUNY Policy on Academic Integrity
     - the request is made sufficiently in advance of the test, and
     - the make-up is scheduled prior to the next class.
 - No make-ups will be given for quizzes.
+- Homework submissions are not accepted via email.
 
 ## Grade Requirement
 
