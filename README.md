@@ -244,12 +244,18 @@ November 9, 2015 |
 November 11, 2015 | 
 November 16, 2015 | 
 November 18, 2015 | 
-November 23, 2015 | 
-November 25, 2015 | 
-November 30, 2015 | 
-December 2, 2015 | 
-December 7, 2015 | 
-December 9, 2015 | 
+November 23, 2015 | [Supporting Different Devices.][different-devices]
+November 25, 2015 | [Managing the Activity Lifecycle.][lifecycle]
+November 30, 2015 | [Building a Dynamic UI with Fragments][fragments]
+December 2, 2015 | [Saving Data][saving-data]
+December 7, 2015 | [Interacting with Other Apps][other-apps]
+December 9, 2015 | [Working with System Permissions][permissions]
 December 14, 2015 | Final exam review.
 December 21, 2015 | Final exam.
 
+[different-devices]:http://developer.android.com/training/basics/supporting-devices/index.html
+[lifecycle]:http://developer.android.com/training/basics/activity-lifecycle/index.html
+[saving-data]:http://developer.android.com/training/basics/data-storage/index.html
+[other-apps]:http://developer.android.com/training/basics/intents/index.html
+[permissions]:http://developer.android.com/training/permissions/index.html
+[fragments]:http://developer.android.com/training/basics/fragments/index.html
