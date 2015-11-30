@@ -246,10 +246,10 @@ November 16, 2015 |
 November 18, 2015 | 
 November 23, 2015 | [Supporting Different Devices.][different-devices]
 November 25, 2015 | [Managing the Activity Lifecycle.][lifecycle]
-November 30, 2015 | [Building a Dynamic UI with Fragments][fragments]
-December 2, 2015 | [Saving Data][saving-data]
-December 7, 2015 | [Interacting with Other Apps][other-apps]
-December 9, 2015 | [Working with System Permissions][permissions]
+November 30, 2015 | [Building a Dynamic UI with Fragments.][fragments]
+December 2, 2015 | [Saving Data.][saving-data]
+December 7, 2015 | [Interacting with Other Apps.][other-apps]
+December 9, 2015 | [Working with System Permissions.][permissions]
 December 14, 2015 | Final exam review.
 December 21, 2015 | Final exam.
 
