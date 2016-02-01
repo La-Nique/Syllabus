@@ -95,7 +95,12 @@ number of permissible absences at 10% of the number of class meetings scheduled
 for the semester.  If the class is meeting two times per week, you are
     permitted to be absent a total of three class sessions; if the class meets
     only once per week, you are permitted to miss one and one-half of the class
-    meetings.  
+    meetings. A student who is absent for more than 15% of the class
+    hours in the semester will be assigned a grade of WU (withdrew
+    unofficially), subject to the discretion of the instructor. Fifteen percent
+    equals eight hours for a course that meets four hours a week, six hours for
+    a course that meets three hours a week. A student who does not attend a
+    course at all will be assigned a grade of WN (never attended).
     
 ## Academic Violations
 
