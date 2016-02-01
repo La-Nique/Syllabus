@@ -140,6 +140,7 @@ F | <=59.9
 - **Deadlines** and **due dates** for assignments will be assigned in class.
 - **Late assignments will be penalized.**
 - Assignments are the result of **individual effort unless otherwise specified** (e.g., group projects). Note that the instructor is required to **report all violations to the college**.
+- Group projects are the result of **group effort by the particular group only**.
 - Plagiarism will not be tolerated. Copying code from the internet is a form of
   plagiarism.
 - Students found cheating and/or plagiarizing will receive a grade of 0 for the
