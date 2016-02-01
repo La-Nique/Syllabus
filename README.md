@@ -79,7 +79,7 @@ Upon successful completion of the course, the student should be able to:
 - Knowledge of
   [Model–view–controller](http://en.wikipedia.org/wiki/Model–view–controller)
 
-## Optional Tasks 
+## Tasks 
 
 1. Please sign up for a free Amazon Web Services (AWS) student account at
 http://aws.amazon.com/education/awseducate/apply. Choose the *students* option.
