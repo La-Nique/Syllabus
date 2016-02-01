@@ -110,52 +110,6 @@ the instructor’s permission. Please see the [CUNY Policy on Academic Integrity
 All majors in CST, CIS, MS, and CIB must attain a grade of C or better in all
 MS and CS courses
 
-## Course Assessment
-
-For the successful completion of this course a student should be able to:
-
-1. Describe the challenges, opportunities, and constraints of working with
-   `Activities`.  
-1. Design a user interface on a mobile device to capture user input and take
-   business action.  
-1. Understand the role of threads on the local device.  
-1. Understand the `Activity` life-cycle. 
-1. Appreciate the challenges of creating mobile applications.
-
-## Evaluation methods and Criteria 
-
-1. Students will have modified programs that illustrate principles of mobile
-   device programming.
-1. Students’ ability to create user interfaces using forms and canvas
-   techniques.
-1. Students will use threading classes within homework assignments.
-1. Students will document and answer questions on issues of mobile device
-   programming.
-
-## General Education Outcomes and Assessment
-### Learning Outcomes
-1. Students will employ scientific reasoning and
-   logical thinking.
-1. Students will communicate in diverse settings and
-   groups, using written (both reading and writing), oral (both speaking and
-   listening), and visual means.  
-1. Students will work with teams, including those of diverse composition. Build
-   consensus. Respect and use creativity.
-
-### Assessment Method
-1. Students will describe problem, identify inputs, processes and desired
-   outcomes in laboratory assignments, class work and tests.
-1. Students will solve problems with the NetBeans software development tool in
-   laboratory assignments, class work and tests.
-1. Students will identify coding paradigms in laboratory assignments, class
-   work and tests.
-1. Students will present their analysis of Mobile device applications in
-   written and oral form.
-1. Students will display the Catalog project to the class detailing key
-   technical objectives met.
-1. Students will demonstrate creativity in modifying mobile apps to meet the
-   user needs.
-
 ## Special Needs
 Students with special needs should see me for accommodation.
 
