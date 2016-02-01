@@ -1,8 +1,5 @@
 # CST 4713: Dynamic Web Development
-(3 credits, 2 class hours, 2 lab hours)
-Department of Computer Systems Technology
-New York City College of Technology
-City University of New York
+(3 credits, 2 class hours, 2 lab hours), Department of Computer Systems Technology, New York City College of Technology, City University of New York
 
 ## Details 
 
