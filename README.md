@@ -1,47 +1,56 @@
-# CST 2301: Multimedia and Mobile Device Programming
-(3 credits, 2 class hours, 2 lab hours), Computer Systems Technology Department, New York City College of Technology
+# CST 4713: Dynamic Web Development
+(3 credits, 2 class hours, 2 lab hours)
+Department of Computer Systems Technology
+New York City College of Technology
+City University of New York
 
 ## Details 
 
-- **Instructor:** [Raffi
-  Khatchadourian](http://openlab.citytech.cuny.edu/khatchad) 
-- **Office:** N913 
-- **Email:**
-  [rkhatchadourian@citytech.cuny.edu](mailto:rkhatchadourian@citytech.cuny.edu)
-- **Phone:** (718) 260-5325 
-- **Office hours:** MW 3-4pm or by appointment
-- **Semester:** Fall 2015 
-- **Section:** CST 2301-D655
+Field | Value
+----- | -----
+**Instructor:** | [Raffi Khatchadourian](http://openlab.citytech.cuny.edu/khatchad) 
+**Office:** | N913 
+**Email:** | [rkhatchadourian@citytech.cuny.edu](mailto:rkhatchadourian@citytech.cuny.edu)
+**Phone:** | (718) 260-5325 
+**Office hours:** | MW 5:40-6:40pm or by appointment
+**Semester:** | Spring 2016 
+**Section:** | CST 4713-D766
 
 ## Course Description
 
-This course will cover how the Java language can support applications on mobile
-devices as cell phones, PDAs and other small computational devices. Students
-will learn the strengths and limitations software development on small devices.
-Specific topics will include  configurations and profiles; overview of
-programming mobile devices; standard and custom user interface elements and
-events; record stores and persistence; drawing and animation using game APIs
-and 3D APIs; audio and video APIs; comparison of current technologies. At the
-conclusion of the course, the student will be familiar with a special set of
-Java classes designed to work on mobile devices and interact with multimedia
-files.
+This course introduces students to the fundamentals of dynamic web application
+software development.  It provides instruction in building web pages
+dynamically, organizing projects into web applications, and deploying these
+applications using a web server.  The course investigates the role middleware
+in an N-tiered design structure (acting as a middle layer between requests
+coming from Web browsers or other HTTP clients and databases or applications on
+the HTTP server).  The concepts of web frameworks, life cycles, handling client
+requests, generating server responses, handling cookies, session tracking, and
+the MVC (model-view-controller) architecture will be discussed.  Hands-on
+laboratory exercises will reinforce the material presented in the lectures and
+enable students to develop related programming, critical thinking, and problem
+solving skills. Students will also learn how to develop complicated software in
+teams.
 
 ## Course Objectives
+
 Upon successful completion of the course, the student should be able to:
 
-1. Understand the development environment on small remote devices.
-2. Familiarized with `Activities`, the building block of Android for cell phone
-   and multimedia applications.
-3. Create simple applications to illustrate the concepts of abstract and
-   discovered components in graphical user interfaces, commands, and event
-   handling.
-4. Appreciate complexities/challenges in moving large multimedia files to/from
-   databases.
-5. Develop software accessing databases, move large multimedia files to remote
-   platforms.
-6. Describe the strengths and weaknesses of applications deployed on remote
-   devices.
-7. Understand the Android event model and `Activity` life-cycle.
+1. Demonstrate understanding of dynamic web application development.
+1. Demonstrate understanding of dealing with form data from client requests.
+1. Demonstrate understanding of various HTTP request headers, and how to access
+   them from a client request.
+1. Demonstrate understanding of the meaning, format, and means of setting HTTP
+   response codes/headers.
+1. Demonstrate understanding of how to send and receive cookies, their benefits
+   and drawbacks, and differences between session and persistent cookies.
+1. Demonstrate understanding of the various elements of session tracking and
+   the Java session tracking API.
+1. Demonstrate understanding of the syntax and utility of web frameworks.
+1. Demonstrate understanding of invoking server-side code with client-side
+   scripting elements.
+1. Use of server-side components/objects, state, and their life cycle.
+1. Understand the Model View Controller (MVC) Architecture/design pattern.
 
 ## General Education Outcomes
 - **Skills/Inquiry/Analysis:** Students will employ scientific reasoning and
@@ -55,37 +64,39 @@ Upon successful completion of the course, the student should be able to:
 
 ## Prerequisite 
 
-- CST 1201: Programming Fundamentals.
-- CST 1204: Databases Fundamentals.
+- CST 2309: Web Programming I 
+- CST 3513: Object-Oriented Programming
+- CST 3613: Advanced Object-Oriented Programming.
 
 ## Background Recommendation
 
 - Good working knowledge of Object-Oriented Programming (OOP).
-    - If you need a Java refresher, I recommend [*Core Java for the
+    - If you need a refresher, I recommend [*Core Java for the
       Impatient*](http://books.google.com/books/about/Core_Java_for_the_Impatient.html?id=hA9KngEACAAJ)
       by [Cay S. Horstmann](http://www.horstmann.com).
-- Some XML experience is helpful but not required.
+- Knowledge of the [Hypertext Transfer Protocol
+  (HTTP)](http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+- Knowledge of
+  [Model–view–controller](http://en.wikipedia.org/wiki/Model–view–controller)
 
-## Useful Material
+## Tasks 
 
-- [Android Developers website](https://developer.android.com/develop)
-    - Google's center for all things Android.
-- [*Core Java for the
-  Impatient*](http://books.google.com/books/about/Core_Java_for_the_Impatient.html?id=hA9KngEACAAJ)
-  by [Cay S. Horstmann](http://www.horstmann.com)
-    - Useful book for Java and OOP background.
+1. Please sign up for a free Amazon Web Services (AWS) student account at
+http://aws.amazon.com/education/awseducate/apply. Choose the *students* option.
+I will use AWS to deploy our example applications. You may also run a local web
+server if you wish.
+1. Please join the [GitHub organization](http://github.com/cst4713-d766) for our course for coding discussion.
+1. Please join the [OpenLab course](http://openlab.citytech.cuny.edu/groups/cst4713-dynamic-web-development-servlet-and-jsp-sp2016/) for class discussion.
 
 ## Attendance
 
-Attendance is expected at every class meeting. 
-
-## Grading
-
-- Midterm Exam: 35% 
-- Final Exam: 35% 
-- Project: 20% 
-- Attendance, Participation, and Assignments: 10%
-
+Attendance is expected at every class meeting.  College policy sets the maximum
+number of permissible absences at 10% of the number of class meetings scheduled
+for the semester.  If the class is meeting two times per week, you are
+    permitted to be absent a total of three class sessions; if the class meets
+    only once per week, you are permitted to miss one and one-half of the class
+    meetings.  
+    
 ## Academic Violations
 
 The instructor of the course has the authority to give a grade of **F** if the
@@ -93,17 +104,48 @@ student submits the work of another person in a manner that represents his/her
 work, or knowingly permits one’s work to be submitted by another person without
 the instructor’s permission. Please see the [CUNY Policy on Academic Integrity](http://www.citytech.cuny.edu/aboutus/docs/policies/CUNY_ACADEMIC_INTEGRITY_6-2011.pdf) for more details. The instructor is required to **report all violations to the college**.
 
+## Grading
+
+Category | Percentage
+-------- | ----------
+Assignments (individual) | 40% 
+Final Project (group) | 30% 
+Nanoquizzes & Participation | 10%
+Coding & Design Work | 20%
+
+For most class sessions, you will be asked to read one or more short articles
+in advance. The class will begin with a tiny "nanoquiz" comprising a few
+multiple choice questions about the readings.
+
+The measure of the acquired skills in coding and design work will be computed
+by selecting the best grades received for the design and code portions of the
+assignments.
+
+Letter Grade | Numerical Grade
+------------ | ---------------
+A | 93-100
+A- | 90-92.9
+B+ | 87-89.9
+B | 83-86.9
+B- | 80-82.9
+C+ | 77-79.9
+C | 70-76.9
+D | 60-69.9
+F | <=59.9
+
 ## Notes
 
 - **Deadlines** and **due dates** for assignments will be assigned in class.
 - **Late assignments will be penalized.**
 - Assignments are the result of **individual effort unless otherwise specified** (e.g., group projects). Note that the instructor is required to **report all violations to the college**.
-- Tests are 60 minutes.
-- Test make-ups will be given if only if:
-    - the request is made sufficiently in advance of the test, and
-    - the make-up is scheduled prior to the next class.
-- No make-ups will be given for quizzes.
+- Plagiarism will not be tolerated. Copying code from the internet is a form of
+  plagiarism.
+- Students found cheating and/or plagiarizing will receive a grade of 0 for the
+  corresponding grade item and will be reported to the college.  
+- If you miss a class, you are responsible for the material.  Have the phone
+  numbers of several other students to find out what material you missed
 - Homework submissions are not accepted via email.
+- Any emails sent from the instructor via non-CUNY email addresses will be ignored.
 
 ## Grade Requirement
 
