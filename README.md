@@ -139,13 +139,14 @@ F | <=59.9
 
 - **Deadlines** and **due dates** for assignments will be assigned in class.
 - **Late assignments will be penalized.**
+- No make-ups will be given for nanoquizzes.
 - Assignments are the result of **individual effort unless otherwise specified** (e.g., group projects). Note that the instructor is required to **report all violations to the college**.
 - Group projects are the result of **group effort by the particular group only**.
 - Plagiarism will not be tolerated. Copying code from the internet is a form of
   plagiarism.
 - Students found cheating and/or plagiarizing will receive a grade of 0 for the
-  corresponding grade item and will be reported to the college.  
-- If you miss a class, you are responsible for the material.  Have the phone
+  corresponding grade item and will be reported to the college.
+- If you miss a class, you are responsible for the material. Have the phone
   numbers of several other students to find out what material you missed
 - Homework submissions are not accepted via email.
 - Any emails sent from the instructor via non-CUNY email addresses will be ignored.
