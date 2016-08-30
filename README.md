@@ -100,6 +100,6 @@ consult the Office of AccessABILITY located in Room E1124 to secure necessary
 academic accommodations. For further information and assistance please call
 (212-772-4857)/TTY (212-650-3230).
 
-## Syllabus Change Policy:
+## Syllabus Change Policy
 
 This syllabus is a guide for the course and is subject to change.
