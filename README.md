@@ -1,5 +1,5 @@
 # CSCI 23300: Programming Projects Seminar for Minors
-> Capstone Course, 2 hrs, 1 credit.
+Capstone Course, 2 hrs, 1 credit.
 
 ## Details 
 
