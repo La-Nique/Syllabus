@@ -34,8 +34,8 @@ http://www.hunter.cuny.edu/csci/for-students/minoring-in-computerscience
    systems.
 2. Be able to implement the solution to a computing problem in a high-level
    programming language with a program of non-trivial size 3. 
-3. be able to manipulate and query data using a relational database system.
-4. acquire some more advanced knowledge in an elective area.
+3. Be able to manipulate and query data using a relational database system.
+4. Acquire some more advanced knowledge in an elective area.
 
 ## Topics
 
