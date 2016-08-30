@@ -63,6 +63,28 @@ Final Project (code, tools, data) | 25%
 Project Paper | 25%
 Project Presentations | 25%
 
+## Course Requirements
+
+### Project
+
+You are expected to independently work on a project of your own design:
+- code in the Python programming language.
+- build a SQL database and interact with it using the SQLite Python API.
+- create an interactive GUI using the Tkinter toolkit.
+- bonus points: use github for version control.
+
+### Weekly Reports
+
+Each week, send a 150-word report on the work you did during the week.
+
+### Presentation
+
+You will give two in-class presentations:
+- one 5-10 minute presentation to the class about the ideas, outline and goals
+  of your project (date: Feb 24th)
+- one final 10 minute presentation to the class about the project work, results
+  and lessons, with a live demo. 
+
 ## Attendance
 
 For attendance, each student is allowed five (5) absences for any reason except
