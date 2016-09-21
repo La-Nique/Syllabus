@@ -81,7 +81,7 @@ Each week, send a 150-word report on the work you did during the week.
 
 You will give two in-class presentations:
 - one 5-10 minute presentation to the class about the ideas, outline and goals
-  of your project (date: Sep 21st)
+  of your project
 - one final 10 minute presentation to the class about the project work, results
   and lessons, with a live demo. 
 
