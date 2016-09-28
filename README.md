@@ -70,6 +70,8 @@ Project Presentations | 25%
 You are expected to independently work on a project of your own design:
 - code in the Python programming language.
 - build a SQL database and interact with it using the SQLite Python API.
+- have at least three tables.
+- have at least one SQL statement containing at least two joins.
 - create an interactive GUI using the Tkinter toolkit.
 - bonus points: use github for version control.
 
