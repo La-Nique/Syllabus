@@ -15,32 +15,26 @@ Field | Value
 
 ## Course Description
 
-Problems in large-scale software development including functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 
+This course is intended to be an introductory survey course on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the cost-effective engineering of high-quality software systems. This may include the understanding and appreciation of problems in large-scale software development such as functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 
 
-## Course Goals
+Software Engineering (SE) is concerned with all facets of software development, from the early stages of requirements engineering to maintaining the system after it has been deployed. This includes technical processes of software development as well as activities such as software project management and the development of tools, methods, and theories to support software development. This course is **not** a "programming" course, instead, it focuses on surveying some of the critical facets of SE that may be less familiar to students of computer science, such as identifying a development process appropriate to the circumstances, eliciting and documenting requirements, using reviews and inspections plus machine-based testing in software development, understanding software evolution in large, complex systems, issues associated with developing dependable software systems, and configuration management of large systems developed by multiple engineers.
 
-There are two related goals for this course. The first is to assess the
-students' mastery of the department's learning goals. The second is to assess
-the department's effectiveness in addressing these goals.  For a complete list
-of these goals, see:
-http://www.hunter.cuny.edu/csci/for-students/minoring-in-computerscience
+## Outline and Schedule of Course Topics
 
-## Learning Outcomes
+The following topics will be covered in the given order. Please note that this schedule is tentative and is meant to serve only as a guide. "Handouts" means that notes and/or readings will be given in class. Although there are fourteen class meeting weeks, one week has been reserved for a midterm and final exam review.
 
-1. Understand the relationship between computer architectures and software
-   systems.
-2. Be able to implement the solution to a computing problem in a high-level
-   programming language with a program of non-trivial size 3. 
-3. Be able to manipulate and query data using a relational database system.
-4. Acquire some more advanced knowledge in an elective area.
-
-## Topics
-
-Topics may include:
-- Python
-- SQLite
-- TKinter
-- GitHub
+Week(s) | Topic | Reading Chapter(s)
+------- | ----- | ------------------
+1 | Introduction | 1
+2 | Software processes | 2
+3 | Agile software development | 3
+4-5 | Requirements engineering | 4
+6 | Architectural design | 6
+7-8 | Design and implementation | 7
+9 | Software testing | 8
+10 | Software evolution | 9
+11-12 | Software refactoring | Handouts
+13 | Configuration management | 25
 
 ## Prerequisite 
 
