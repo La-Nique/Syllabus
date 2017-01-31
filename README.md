@@ -54,11 +54,22 @@ CSCI 33500.
 
 Category | Percentage
 -------- | ----------
-Assignments | 10% 
-Weekly Written Reports | 15% 
+Assignments | 10%
+Quizzes | ?
+Midterm Exam |
+Final Exam | 
+
+
 Final Project (code, tools, data) | 25%
 Project Paper | 25%
 Project Presentations | 25%
+
+## Key Dates
+
+Event | Date
+----- | ----
+Withdrawal Deadline | April 19
+Final Exam | May 25 6:20-8:20 pm in North Building C109
 
 ## Course Requirements
 
@@ -71,10 +82,6 @@ You are expected to independently work on a project of your own design:
 - have at least one SQL statement containing at least two joins.
 - create an interactive GUI using the Tkinter toolkit.
 - bonus points: use github for version control.
-
-### Weekly Reports
-
-Each week, send a 150-word report on the work you did during the week.
 
 ### Presentation
 
@@ -104,13 +111,13 @@ then submitted for academic credit).
 
 ## Discussion and Q&A
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
 
 Find our class page at: http://piazza.com/hunter.cuny/spring2017/csci40500/home
 
 ## Email
 
-Emails to the instructor must be via a CUNY email addresses for FERPA reasons. Please post all class-related discussion on Piazza.
+Emails to the instructor must be via a CUNY email addresses for FERPA reasons. Please post all class-related discussion on Piazza. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
 
 ## Special Needs
 
