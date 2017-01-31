@@ -202,4 +202,4 @@ Raffi Khatchadourian received his MS and PhD degrees in Computer Science from Oh
 
 ## Credits
 
-Portions of this syllabus are based off the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science & Engineering, University of Florida.
+Portions of this syllabus are based off the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science & Engineering, University of Florida by Steve Thebaut.
