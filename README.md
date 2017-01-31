@@ -1,5 +1,5 @@
 # CSCI 40500: Software Engineering
-> Problems in large-scale software development including functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 3 hrs, 3 credits.
+3 hrs, 3 credits.
 
 ## Details 
 
@@ -9,16 +9,13 @@ Field | Value
 **Office:** | 1000C Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | Please call department at: (212) 772-5213
-**Office hours:** | MW 12:00-1:00pm or by appointment
-**Semester:** | Fall 2016 
-**Section:** | CSCI 23300-01
+**Office hours:** | TTh 4:30-5:30 pm or by appointment
+**Semester:** | Spring 2017
+**Section:** | CSCI 40500-01
 
 ## Course Description
 
-This course will serve as a capstone for the minor, affording students the
-opportunity to write reasonably large and complex programs. Students will be
-expected to draw topics for these programs from their majors or other areas of
-interest. This course does not count toward the computer science major.
+Problems in large-scale software development including functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 
 
 ## Course Goals
 
@@ -47,11 +44,11 @@ Topics may include:
 
 ## Prerequisite 
 
-prereq or coreq: CSCI 13300 and 23200 and a declared Computer Science Minor.
+CSCI 33500.
 
 ## Textbook
 
-None required.
+[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136.
 
 ## Grading
 
