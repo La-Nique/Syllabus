@@ -1,5 +1,5 @@
-# CSCI 23300: Programming Projects Seminar for Minors
-Capstone Course, 2 hrs, 1 credit.
+# CSCI 40500: Software Engineering
+> Problems in large-scale software development including functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 3 hrs, 3 credits.
 
 ## Details 
 
