@@ -1,5 +1,5 @@
 # CSCI 40500: Software Engineering
-3 hrs, 3 credits.
+3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
 
 ## Details 
 
@@ -15,9 +15,9 @@ Field | Value
 
 ## Course Description
 
-This course is intended to be an introductory survey course on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the cost-effective engineering of high-quality software systems. This may include the understanding and appreciation of problems in large-scale software development such as functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 
+This course is intended to be an introductory survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the efficient engineering of high-quality software systems. This may include the understanding and appreciation of problems in large-scale software development such as functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 
 
-Software Engineering (SE) is concerned with all facets of software development, from the early stages of requirements engineering to maintaining the system after it has been deployed. This includes technical processes of software development as well as activities such as software project management and the development of tools, methods, and theories to support software development. This course is **not** a "programming" course, instead, it focuses on surveying some of the critical facets of SE that may be less familiar to students of computer science, such as identifying a development process appropriate to the circumstances, eliciting and documenting requirements, using reviews and inspections plus machine-based testing in software development, understanding software evolution in large, complex systems, issues associated with developing dependable software systems, and configuration management of large systems developed by multiple engineers.
+Software Engineering (SE) is concerned with all facets of software development, from the early stages of requirements engineering to maintaining the system after it has been deployed. This includes technical processes of software development as well as activities such as software project management and the development of tools, methods, and theories to support software development. This course is not a "programming" course per se, instead, it focuses on surveying some of the critical facets of SE that may be less familiar to students of computer science, such as identifying a development process appropriate to the circumstances, eliciting and documenting requirements, using reviews and inspections plus machine-based testing in software development, understanding software evolution in large, complex systems, issues associated with developing dependable software systems, and configuration management of large systems developed by multiple engineers.
 
 ## Outline and Schedule of Course Topics
 
@@ -42,56 +42,52 @@ CSCI 33500.
 
 ## Textbook
 
-[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136.
+[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136. A reserve copy has been requested from the library. Please note that the **10th edition** is required.
 
 ## Grading
 
 Category | Percentage
 -------- | ----------
-Assignments | 10%
-Quizzes | ?
-Midterm Exam |
-Final Exam | 
-
-
-Final Project (code, tools, data) | 25%
-Project Paper | 25%
-Project Presentations | 25%
+Assignments | 15%
+Quizzes | 10%
+Participation | 5%
+Midterm Exam | 35%
+Final Exam (non-accumulative) | 35%
 
 ## Key Dates
 
 Event | Date
 ----- | ----
+Midterm Exam | March 14 (tentative)
 Withdrawal Deadline | April 19
 Final Exam | May 25 6:20-8:20 pm in North Building C109
 
-## Course Requirements
+## Homework
 
-### Project
+Homework will be assigned after each chapter read. It may include questions at the end of the chapter and/or short coding assignments depending on the material. 
 
-You are expected to independently work on a project of your own design:
-- code in the Python programming language.
-- build a SQL database and interact with it using the SQLite Python API.
-- have at least three tables.
-- have at least one SQL statement containing at least two joins.
-- create an interactive GUI using the Tkinter toolkit.
-- bonus points: use github for version control.
+### Notes
 
-### Presentation
+- **Deadlines** and **due dates** for assignments will be assigned in class.
+- **Late assignments will be penalized.**
+- No extensions will be given for extra credit assignments.
+- Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
 
-You will give two in-class presentations:
-- one 5-10 minute presentation to the class about the ideas, outline and goals
-  of your project
-- one final 10 minute presentation to the class about the project work, results
-  and lessons, with a live demo. 
+## Quizzes
+
+Quizzes will also be given after each chapter read. Quiz deadlines will be given in class. No make-ups will be given for quizzes.
+
+## Exams
+
+Test make-ups will be given if and only if:
+
+- the request is made sufficiently in advance of the test, and
+- the make-up is scheduled prior to the next class.
 
 ## Attendance
 
-For attendance, each student is allowed five (5) absences for any reason except
-on days when there are presentations or exams. Absences exceeding the allowance
-or absence on a presentation day for any reason results in a 0.2% deduction
-from the attendance grade.
-    
+Attendance is expected for *each and every class* meeting. Each student is allowed five (5) absences for any reason except on days when there are presentations or exams. Absences exceeding the allowance or absence on a presentation day for any reason results in a 0.2% deduction from the attendance grade.
+
 ## Academic Violations
 
 Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating
@@ -105,13 +101,21 @@ then submitted for academic credit).
 
 ## Discussion and Q&A
 
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
+This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-Find our class page at: http://piazza.com/hunter.cuny/spring2017/csci40500/home
+Find our class page [here](http://piazza.com/hunter.cuny/spring2017/csci40500/home).
 
 ## Email
 
 Emails to the instructor must be via a CUNY email addresses for FERPA reasons. Please post all class-related discussion on Piazza. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
+
+## Computer Science Facilities & Labs 
+
+All computer science students can use any of the general-purpose labs throughout Hunter College. In addition, computer science majors and students enrolled in CSCI courses can an obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
+
+## Counseling & Wellness Services
+
+Counseling & Wellness Services (CWS) provides mental health, health and wellness services aimed at enhancing students' quality of life and maximizing personal and academic growth and development. More information can be found on the [Counseling & Wellness Services website](http://www.hunter.cuny.edu/studentservices/counseling-and-wellness).
 
 ## Special Needs
 
@@ -124,10 +128,74 @@ In compliance with the American Disability Act of 1990 (ADA) and with Section
 educational parity and accommodations for all students with documented
 disabilities and / or medical conditions. It is recommended that all students
 with documented disabilities (Emotional, Medical, Physical and / or Learning)
-consult the Office of AccessABILITY located in Room E1124 to secure necessary
+consult the Office of Accessibility located in Room E1124 to secure necessary
 academic accommodations. For further information and assistance please call
 (212-772-4857)/TTY (212-650-3230).
+
+## Family Educational Rights and Privacy Act (FERPA) 
+
+The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34
+CFR Part 99) is a Federal law that protects the privacy of student education
+records. The law applies to all schools that receive funds under an applicable
+program of the U.S. Department of Education.
+
+FERPA gives parents certain rights with respect to their children's education
+records. These rights transfer to the student when he or she reaches the age of
+18 or attends a school beyond the high school level. Students to whom the
+rights have transferred are "eligible students."
+
+- Parents or eligible students have the right to inspect and review the
+  student's education records maintained by the school. Schools are not
+  required to provide copies of records unless, for reasons such as great
+  distance, it is impossible for parents or eligible students to review the
+  records. Schools may charge a fee for copies.
+- Parents or eligible students have the right to request that a school correct
+  records which they believe to be inaccurate or misleading. If the school
+  decides not to amend the record, the parent or eligible student then has the
+  right to a formal hearing. After the hearing, if the school still decides not
+  to amend the record, the parent or eligible student has the right to place a
+  statement with the record setting forth his or her view about the contested
+  information.
+- Generally, schools must have written permission from the parent or eligible
+  student in order to release any information from a student's education
+  record. However, FERPA allows schools to disclose those records, without
+  consent, to the following parties or under the following conditions (34 CFR §
+  99.31):
+    - School officials with legitimate educational interest;
+    - Other schools to which a student is transferring;
+    - Specified officials for audit or evaluation purposes;
+    - Appropriate parties in connection with financial aid to a student;
+    - Organizations conducting certain studies for or on behalf of the school;
+    - Accrediting organizations;
+    - To comply with a judicial order or lawfully issued subpoena; 
+    - Appropriate officials in cases of health and safety emergencies; and
+    - State and local authorities, within a juvenile justice system, pursuant
+      to specific State law.
+
+Schools may disclose, without consent, "directory" information such as a
+student's name, address, telephone number, date and place of birth, honors and
+awards, and dates of attendance. However, schools must tell parents and
+eligible students about directory information and allow parents and eligible
+students a reasonable amount of time to request that the school not disclose
+directory information about them. Schools must notify parents and eligible
+students annually of their rights under FERPA. The actual means of notification
+(special letter, inclusion in a PTA bulletin, student handbook, or newspaper
+article) is left to the discretion of each school.
+
+For additional information, you may call 1-800-USA-LEARN (1-800-872-5327)
+(voice). Individuals who use TDD may use the Federal Relay Service.
+
+Or you may contact us at the following address:
+
+Family Policy Compliance Office
+U.S. Department of Education
+400 Maryland Avenue, SW
+Washington, D.C. 20202-8520
 
 ## Syllabus Change Policy
 
 This syllabus is a guide for the course and is subject to change.
+
+## Instructor Biography
+
+Raffi Khatchadourian received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining Hunter College, he was an Assistant Professor in the Department of Computer Systems Technology at New York City College of Technology. Prior to that, Raffi was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
