@@ -29,11 +29,12 @@ Week(s) | Topic | Reading Chapter(s)
 2 | Software processes | 2
 3 | Agile software development | 3
 4-5 | Requirements engineering | 4
-6 | Architectural design | 6
-7-8 | Design and implementation | 7
-9 | Software testing | 8
-10 | Software evolution | 9
-11-12 | Software refactoring | Handouts
+6 | System modeling | 5
+7 | Architectural design | 6
+8-9 | Design and implementation | 7
+10 | Software testing | 8
+11 | Software evolution | 9
+12 | Software analysis and automated refactoring | Handouts
 13 | Configuration management | 25
 
 ## Prerequisite 
