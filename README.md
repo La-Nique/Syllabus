@@ -1,6 +1,36 @@
 # CSCI 40500: Software Engineering
 3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
 
+Table of Contents
+=================
+
+   * [CSCI 40500: Software Engineering](#csci-40500-software-engineering)
+      * [Details](#details)
+      * [Course Description](#course-description)
+      * [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
+      * [Prerequisite](#prerequisite)
+      * [Textbook](#textbook)
+      * [Grading](#grading)
+      * [Key Dates](#key-dates)
+      * [Homework](#homework)
+         * [Notes](#notes)
+      * [Quizzes](#quizzes)
+      * [Exams](#exams)
+      * [Attendance](#attendance)
+      * [Academic Violations](#academic-violations)
+      * [Discussion and Q&amp;A](#discussion-and-qa)
+      * [Email](#email)
+      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
+      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
+      * [Special Needs](#special-needs)
+      * [ADA Compliance](#ada-compliance)
+      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+      * [Syllabus Change Policy](#syllabus-change-policy)
+      * [Instructor Biography](#instructor-biography)
+      * [Credits](#credits)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 ## Details 
 
 Field | Value
