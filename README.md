@@ -71,7 +71,7 @@ CSCI 33500.
 
 ## Textbook
 
-[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136. A reserve copy has been requested from the library. Please note that the **10th edition** is required.
+[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136. A copy is on reserve in the library. Please note that the **10th edition** is required.
 
 ## Grading
 
