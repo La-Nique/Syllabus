@@ -221,10 +221,6 @@ U.S. Department of Education
 400 Maryland Avenue, SW
 Washington, D.C. 20202-8520
 
-## Syllabus Change Policy
-
-This syllabus is a guide for the course and is subject to change.
-
 ## Instructor Biography
 
 Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and Ph.D. degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
