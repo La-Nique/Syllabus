@@ -60,8 +60,8 @@ Week(s) | Topic | Reading Chapter(s)
 6 | System modeling | 5
 7 | Architectural design | 6
 8-9 | Design and implementation | 7
-10 | Software testing | 8
-11 | Software evolution | 9
+10-11 | Software testing | 8
+12 | Software evolution | 9
 <!--
 12 | Software analysis and automated refactoring | Handouts
 13 | Configuration management | 25 -->
