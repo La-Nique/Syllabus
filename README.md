@@ -62,8 +62,9 @@ Week(s) | Topic | Reading Chapter(s)
 8-9 | Design and implementation | 7
 10 | Software testing | 8
 11 | Software evolution | 9
+<!--
 12 | Software analysis and automated refactoring | Handouts
-13 | Configuration management | 25
+13 | Configuration management | 25 -->
 
 ## Prerequisite 
 
