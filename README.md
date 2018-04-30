@@ -120,14 +120,7 @@ Attendance is expected for *each and every class* meeting. Each student is allow
 
 ## Academic Violations
 
-Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating
-on examinations, obtaining unfair advantage, and falsification of records and
-official documents) as serious offenses against the values of intellectual
-honesty. The college is committed to enforcing the CUNY Policy on Academic
-Integrity and will pursue cases of academic dishonesty according to the Hunter
-College Academic Integrity Procedures. Special attention is given to CONTRACT
-CHEATING (this is where students have work completed on their behalf which is
-then submitted for academic credit).
+Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit).
 
 ## Discussion and Q&A
 
