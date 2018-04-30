@@ -153,44 +153,17 @@ Students with special needs should see me for accommodation.
 
 ## ADA Compliance
 
-In compliance with the American Disability Act of 1990 (ADA) and with Section
-504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring
-educational parity and accommodations for all students with documented
-disabilities and / or medical conditions. It is recommended that all students
-with documented disabilities (Emotional, Medical, Physical and / or Learning)
-consult the Office of Accessibility located in Room E1124 to secure necessary
-academic accommodations. For further information and assistance please call
-(212-772-4857)/TTY (212-650-3230).
+In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and / or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and / or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call (212-772-4857)/TTY (212-650-3230).
 
 ## Family Educational Rights and Privacy Act (FERPA) 
 
-The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34
-CFR Part 99) is a Federal law that protects the privacy of student education
-records. The law applies to all schools that receive funds under an applicable
-program of the U.S. Department of Education.
+The Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99) is a Federal law that protects the privacy of student education records. The law applies to all schools that receive funds under an applicable program of the U.S. Department of Education.
 
-FERPA gives parents certain rights with respect to their children's education
-records. These rights transfer to the student when he or she reaches the age of
-18 or attends a school beyond the high school level. Students to whom the
-rights have transferred are "eligible students."
+FERPA gives parents certain rights with respect to their children's education records. These rights transfer to the student when he or she reaches the age of 18 or attends a school beyond the high school level. Students to whom the rights have transferred are "eligible students."
 
-- Parents or eligible students have the right to inspect and review the
-  student's education records maintained by the school. Schools are not
-  required to provide copies of records unless, for reasons such as great
-  distance, it is impossible for parents or eligible students to review the
-  records. Schools may charge a fee for copies.
-- Parents or eligible students have the right to request that a school correct
-  records which they believe to be inaccurate or misleading. If the school
-  decides not to amend the record, the parent or eligible student then has the
-  right to a formal hearing. After the hearing, if the school still decides not
-  to amend the record, the parent or eligible student has the right to place a
-  statement with the record setting forth his or her view about the contested
-  information.
-- Generally, schools must have written permission from the parent or eligible
-  student in order to release any information from a student's education
-  record. However, FERPA allows schools to disclose those records, without
-  consent, to the following parties or under the following conditions (34 CFR §
-  99.31):
+- Parents or eligible students have the right to inspect and review the student's education records maintained by the school. Schools are not required to provide copies of records unless, for reasons such as great distance, it is impossible for parents or eligible students to review the records. Schools may charge a fee for copies.
+- Parents or eligible students have the right to request that a school correct records which they believe to be inaccurate or misleading. If the school decides not to amend the record, the parent or eligible student then has the right to a formal hearing. After the hearing, if the school still decides not to amend the record, the parent or eligible student has the right to place a statement with the record setting forth his or her view about the contested information.
+- Generally, schools must have written permission from the parent or eligible student in order to release any information from a student's education record. However, FERPA allows schools to disclose those records, without consent, to the following parties or under the following conditions (34 CFR § 99.31):
     - School officials with legitimate educational interest;
     - Other schools to which a student is transferring;
     - Specified officials for audit or evaluation purposes;
@@ -199,21 +172,11 @@ rights have transferred are "eligible students."
     - Accrediting organizations;
     - To comply with a judicial order or lawfully issued subpoena; 
     - Appropriate officials in cases of health and safety emergencies; and
-    - State and local authorities, within a juvenile justice system, pursuant
-      to specific State law.
+    - State and local authorities, within a juvenile justice system, pursuant to specific State law.
 
-Schools may disclose, without consent, "directory" information such as a
-student's name, address, telephone number, date and place of birth, honors and
-awards, and dates of attendance. However, schools must tell parents and
-eligible students about directory information and allow parents and eligible
-students a reasonable amount of time to request that the school not disclose
-directory information about them. Schools must notify parents and eligible
-students annually of their rights under FERPA. The actual means of notification
-(special letter, inclusion in a PTA bulletin, student handbook, or newspaper
-article) is left to the discretion of each school.
+Schools may disclose, without consent, "directory" information such as a student's name, address, telephone number, date and place of birth, honors and awards, and dates of attendance. However, schools must tell parents and eligible students about directory information and allow parents and eligible students a reasonable amount of time to request that the school not disclose directory information about them. Schools must notify parents and eligible students annually of their rights under FERPA. The actual means of notification (special letter, inclusion in a PTA bulletin, student handbook, or newspaper article) is left to the discretion of each school.
 
-For additional information, you may call 1-800-USA-LEARN (1-800-872-5327)
-(voice). Individuals who use TDD may use the Federal Relay Service.
+For additional information, you may call 1-800-USA-LEARN (1-800-872-5327) (voice). Individuals who use TDD may use the Federal Relay Service.
 
 Or you may contact us at the following address:
 
