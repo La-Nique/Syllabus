@@ -71,7 +71,7 @@ Homework will be assigned after each chapter read. It may include questions at t
 
 The graduate version of the course will be more involved with more in-depth assignments and/or readings, including research papers.
 
-### Notes
+## Notes
 
 - **Deadlines** and **due dates** for assignments will be assigned in class.
 - **Late assignments will be penalized.**
