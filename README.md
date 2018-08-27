@@ -1,45 +1,17 @@
-# CSCI 40500: Software Engineering
+# CSCI 40500/77100: Software Engineering/Contemporary Application Development
 3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
-
-## Table of Contents
-   * [CSCI 40500: Software Engineering](#csci-40500-software-engineering)
-      * [Details](#details)
-      * [Course Description](#course-description)
-      * [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
-      * [Prerequisite](#prerequisite)
-      * [Textbook](#textbook)
-      * [Grading](#grading)
-      * [Key Dates](#key-dates)
-      * [Homework](#homework)
-         * [Notes](#notes)
-      * [Quizzes](#quizzes)
-      * [Exams](#exams)
-      * [Attendance](#attendance)
-      * [Academic Violations](#academic-violations)
-      * [Discussion and Q&amp;A](#discussion-and-qa)
-      * [Email](#email)
-      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
-      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
-      * [Special Needs](#special-needs)
-      * [ADA Compliance](#ada-compliance)
-      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-      * [Syllabus Change Policy](#syllabus-change-policy)
-      * [Instructor Biography](#instructor-biography)
-      * [Credits](#credits)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Details 
 
 Field | Value
 ----- | -----
 **Instructor:** | [Raffi Khatchadourian](http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
-**Office:** | 1000C Hunter North Building
+**Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
-**Phone:** | Please call department at: (212) 772-5213
-**Office hours:** | TTh 4:30-5:30 pm or by appointment
-**Semester:** | Spring 2017
-**Section:** | CSCI 40500-01
+**Phone:** | (212) 650-3988
+**Office hours:** | TBD or [by appointment](http://khatchad.setmore.com)
+**Semester:** | Fall 2018
+**Section:** | CSCI 40500-01/CSCI 77100-01
 
 ## Course Description
 
@@ -62,13 +34,12 @@ Week(s) | Topic | Reading Chapter(s)
 8-9 | Design and implementation | 7
 10-11 | Software testing | 8
 12 | Software evolution | 9
-<!--
-12 | Software analysis and automated refactoring | Handouts
-13 | Configuration management | 25 -->
+13 | Software analysis and automated refactoring (**time permitting**)| Handouts
+14 | Configuration management (**time permitting**) | 25
 
 ## Prerequisite 
 
-CSCI 33500.
+CSCI 33500/equivalent.
 
 ## Textbook
 
@@ -84,17 +55,21 @@ Participation | 5%
 Midterm Exam | 35%
 Final Exam (non-accumulative) | 35%
 
-## Key Dates
+<!-- ## Key Dates
 
 Event | Date
 ----- | ----
 Midterm Exam | March 14 (tentative)
 Withdrawal Deadline | April 19
-Final Exam | May 25 6:20-8:20 pm in North Building C109
+Final Exam | May 25 6:20-8:20 pm in North Building C109 -->
 
 ## Homework
 
 Homework will be assigned after each chapter read. It may include questions at the end of the chapter and/or short coding assignments depending on the material. 
+
+## Graduate Version (77100)
+
+The graduate version of the course will be more involved with more in-depth assignments and/or readings, including research papers.
 
 ### Notes
 
@@ -126,11 +101,15 @@ Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating o
 
 This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-Find our class page [here](http://piazza.com/hunter.cuny/spring2017/csci40500/home).
+Find our class page [here](http://piazza.com/hunter.cuny/fall2018/csci40500/home).
 
 ## Email
 
 Emails to the instructor must be via a CUNY email addresses for FERPA reasons. Please post all class-related discussion on Piazza. Also, please ensure that your *correct* email address is entered into the CUNY Blackboard.
+
+## Bulletin Board
+
+You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
 
 ## Computer Science Facilities & Labs 
 
@@ -177,6 +156,17 @@ Family Policy Compliance Office
 U.S. Department of Education
 400 Maryland Avenue, SW
 Washington, D.C. 20202-8520
+
+## Sexual Misconduct
+
+In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
+
+a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
+b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
+
+## Syllabus Change Policy
+
+Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice. Students will find out about changes to the syllabus via class attendance.
 
 ## Instructor Biography
 
