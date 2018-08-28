@@ -1,6 +1,7 @@
 # CSCI 40500/77100: Software Engineering/Contemporary Application Development
 3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
 
+## Table of Contents
 <!--ts-->
    * [CSCI 40500/77100: Software Engineering/Contemporary Application Development](#csci-4050077100-software-engineeringcontemporary-application-development)
       * [Details](#details)
