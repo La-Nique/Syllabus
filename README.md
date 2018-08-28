@@ -42,7 +42,7 @@ Field | Value
 **Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hours:** | TBD or [by appointment](http://khatchad.setmore.com)
+**Office hours:** | MW 5:45-6:45 pm or [by appointment](http://khatchad.setmore.com)
 **Semester:** | Fall 2018
 **Section:** | CSCI 40500-01/CSCI 77100-01
 
@@ -67,8 +67,8 @@ Week(s) | Topic | Reading Chapter(s)
 8-9 | Design and implementation | 7
 10-11 | Software testing | 8
 12 | Software evolution | 9
-13 | Software analysis and automated refactoring (**time permitting**)| Handouts
-14 | Configuration management (**time permitting**) | 25
+**time permitting** | Software analysis and automated refactoring | Handouts
+**time permitting** | Configuration management | 25
 
 ## Prerequisite 
 
@@ -88,13 +88,13 @@ Participation | 5%
 Midterm Exam | 35%
 Final Exam (non-accumulative) | 35%
 
-<!-- ## Key Dates
+## Key Dates
 
 Event | Date
 ----- | ----
-Midterm Exam | March 14 (tentative)
-Withdrawal Deadline | April 19
-Final Exam | May 25 6:20-8:20 pm in North Building C109 -->
+Midterm Exam | October 10 (tentative)
+Withdrawal Deadline | November 6
+Final Exam | December 17 7:00-9:00 pm in West Building 623
 
 ## Homework
 
@@ -134,7 +134,7 @@ Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating o
 
 This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-Find our class page [here](http://piazza.com/hunter.cuny/fall2018/csci40500/home).
+Find our class page [here](http://piazza.com/hunter.cuny/fall2018/csci40500/home) and [sign up](https://piazza.com/hunter.cuny/fall2018/csci40500) for the forum.
 
 ## Email
 
