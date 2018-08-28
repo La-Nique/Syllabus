@@ -10,6 +10,7 @@
       * [Prerequisite](#prerequisite)
       * [Textbook](#textbook)
       * [Grading](#grading)
+      * [Key Dates](#key-dates)
       * [Homework](#homework)
          * [Notes](#notes)
       * [Graduate Version (77100)](#graduate-version-77100)
@@ -30,7 +31,7 @@
       * [Instructor Biography](#instructor-biography)
       * [Credits](#credits)
 
-<!-- Added by: rk1424, at: 2018-08-28T14:38-04:00 -->
+<!-- Added by: rk1424, at: 2018-08-28T15:29-04:00 -->
 
 <!--te-->
 
