@@ -65,18 +65,18 @@ Final Exam | May 25 6:20-8:20 pm in North Building C109 -->
 
 ## Homework
 
-Homework will be assigned after each chapter read. It may include questions at the end of the chapter and/or short coding assignments depending on the material. 
+Homework will be assigned after each chapter read. It may include questions at the end of the chapter and/or short coding assignments depending on the material.
 
-## Graduate Version (77100)
-
-The graduate version of the course will be more involved with more in-depth assignments and/or readings, including research papers.
-
-## Notes
+### Notes
 
 - **Deadlines** and **due dates** for assignments will be assigned in class.
 - **Late assignments will be penalized.**
 - No extensions will be given for extra credit assignments.
 - Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
+
+## Graduate Version (77100)
+
+The graduate version of the course will be more involved with more in-depth assignments and/or readings, including research papers.
 
 ## Quizzes
 
