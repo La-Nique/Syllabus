@@ -95,7 +95,7 @@ Event | Date
 ----- | ----
 Midterm Exam | October 10 (tentative)
 Withdrawal Deadline | November 6
-Final Exam | December 17 7:00-9:00 pm in West Building 623
+Final Exam | December 17 6:20-8:20 pm in West Bldg W410
 
 ## Homework
 
