@@ -1,51 +1,48 @@
 # CSCI 40500/77100: Software Engineering/Contemporary Application Development
-3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
+3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Hunter College.
 
 ## Table of Contents
-<!--ts-->
-   * [CSCI 40500/77100: Software Engineering/Contemporary Application Development](#csci-4050077100-software-engineeringcontemporary-application-development)
-      * [Details](#details)
-      * [Course Description](#course-description)
-      * [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
-      * [Prerequisite](#prerequisite)
-      * [Textbook](#textbook)
-      * [Grading](#grading)
-      * [Key Dates](#key-dates)
-      * [Homework](#homework)
-         * [Notes](#notes)
-      * [Graduate Version (77100)](#graduate-version-77100)
-      * [Quizzes](#quizzes)
-      * [Exams](#exams)
-      * [Attendance](#attendance)
-      * [Academic Violations](#academic-violations)
-      * [Discussion and Q&amp;A](#discussion-and-qa)
-      * [Email](#email)
-      * [Bulletin Board](#bulletin-board)
-      * [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
-      * [Counseling &amp; Wellness Services](#counseling--wellness-services)
-      * [Special Needs](#special-needs)
-      * [ADA Compliance](#ada-compliance)
-      * [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-      * [Sexual Misconduct](#sexual-misconduct)
-      * [Syllabus Change Policy](#syllabus-change-policy)
-      * [Instructor Biography](#instructor-biography)
-      * [Credits](#credits)
+* [Details](#details)
+* [Course Description](#course-description)
+* [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
+* [Prerequisite](#prerequisite)
+* [Textbook](#textbook)
+* [Grading](#grading)
+* [Key Dates](#key-dates)
+* [Homework](#homework)
+    * [Notes](#notes)
+* [Quizzes](#quizzes)
+* [Exams](#exams)
+* [Attendance](#attendance)
+* [Academic Violations](#academic-violations)
+* [Discussion and Q&amp;A](#discussion-and-qa)
+* [Email](#email)
+* [Bulletin Board](#bulletin-board)
+* [Computer Science Facilities &amp; Labs](#computer-science-facilities--labs)
+* [Counseling &amp; Wellness Services](#counseling--wellness-services)
+* [Special Needs](#special-needs)
+* [ADA Compliance](#ada-compliance)
+* [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
+* [Sexual Misconduct](#sexual-misconduct)
+* [Syllabus Change Policy](#syllabus-change-policy)
+* [Instructor Biography](#instructor-biography)
+* [Credits](#credits)
 
-<!-- Added by: rk1424, at: 2018-08-28T15:29-04:00 -->
-
-<!--te-->
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 ## Details 
 
 Field | Value
 ----- | -----
-**Instructor:** | [Raffi Khatchadourian](http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
+**Instructor:** | [Raffi Khatchadourian](http://cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
 **Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hours:** | MW 5:45-6:45 pm or [by appointment](http://khatchad.setmore.com)
-**Semester:** | Fall 2018
+**Office hours:** | F 3:00-5:00 pm or [by appointment](http://khatchad.setmore.com)
+**Semester:** | Spring 2020
 **Section:** | CSCI 40500-01/CSCI 77100-01
+**Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
+**Grader office hours:** | W 10-11 am
 
 ## Course Description
 
@@ -77,7 +74,7 @@ CSCI 33500/equivalent.
 
 ## Textbook
 
-[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2015, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136. A copy is on reserve in the library. Please note that the **10th edition** is required.
+[Software Engineering](https://books.google.com/books?id=tW4VngEACAAJ), Sommerville, I. ISBN 9780133943030. 2016, Pearson Education. 10th edition. There is a [paperback version](https://www.amazon.com/Software-Engineering-Sommerville-Ian/dp/1292096136) available with ISBN 1292096136. A copy has been requested for reserve in the library. Please note that the **10th edition** is required.
 
 ## Grading
 
@@ -93,9 +90,11 @@ Final Exam (non-accumulative) | 35%
 
 Event | Date
 ----- | ----
-Midterm Exam | October 10 (tentative)
-Withdrawal Deadline | November 6
-Final Exam | December 17 6:20-8:20 pm in West Bldg W410
+Midterm Exam | March 27 (tentative)
+Recess | April 8 - April 16
+Withdrawal Deadline | April 1
+Reading Day | May 15
+Final Exam | May 22 5:10-7:10 pm in North Bldg 1036
 
 ## Homework
 
@@ -108,13 +107,9 @@ Homework will be assigned after each chapter read. It may include questions at t
 - No extensions will be given for extra credit assignments.
 - Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
 
-## Graduate Version (77100)
-
-The graduate version of the course will be more involved with more in-depth assignments and/or readings, including research papers.
-
 ## Quizzes
 
-Quizzes will also be given after each chapter read. Quiz deadlines will be given in class. No make-ups will be given for quizzes.
+Quizzes will be given after each chapter read. Quiz deadlines will be given in class. No make-ups will be given for quizzes.
 
 ## Exams
 
@@ -125,17 +120,17 @@ Test make-ups will be given if and only if:
 
 ## Attendance
 
-Attendance is expected for *each and every class* meeting. Each student is allowed five (5) absences for any reason except on days when there are presentations or exams. Absences exceeding the allowance or absence on a presentation day for any reason results in a 0.2% deduction from the attendance grade.
+Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time.
 
 ## Academic Violations
 
-Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit).
+Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit). Academic violations will be pursued to the fullest extent possible, including failure from the course.
 
 ## Discussion and Q&A
 
 This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-Find our class page [here](http://piazza.com/hunter.cuny/fall2018/csci40500771100/home) and [sign up](https://piazza.com/hunter.cuny/fall2018/csci40500771100) for the forum.
+Find our class page [here](http://piazza.com/hunter.cuny/spring2020/csci40500771100/home) and [sign up](https://piazza.com/hunter.cuny/spring2020/csci40500771100) for the forum.
 
 ## Email
 
@@ -196,8 +191,7 @@ Washington, D.C. 20202-8520
 In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
 
 a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
-
-b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
+a. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
 
 ## Syllabus Change Policy
 
