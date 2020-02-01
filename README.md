@@ -43,6 +43,7 @@ Field | Value
 **Section:** | CSCI 40500-01/CSCI 77100-01
 **Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
 **Grader office hours:** | W 10-11 am
+**Office:** | 1000G Hunter North Building
 
 ## Course Description
 
@@ -91,8 +92,8 @@ Final Exam (non-accumulative) | 35%
 Event | Date
 ----- | ----
 Midterm Exam | March 27 (tentative)
-Recess | April 8 - April 16
 Withdrawal Deadline | April 1
+Recess | April 8 - April 16
 Reading Day | May 15
 Final Exam | May 22 5:10-7:10 pm in North Bldg 1036
 
