@@ -99,7 +99,7 @@ Final Exam | May 22 5:10-7:10 pm in North Bldg 1036
 
 ## Homework
 
-Homework will be assigned after each chapter read. It may include questions at the end of the chapter and/or short coding assignments depending on the material.
+Homework will be assigned after each chapter read. It may include questions at the end of the chapter and/or short coding assignments depending on the material. Each will be assigned in Blackboard along with submission instructions. Assignments will be uploaded to Blackboard and code will be uploaded to GitHub classroom and submitted via gradescope. The exact instructions will follow. Code must include command-line instructions on how to run the program.
 
 ### Notes
 
