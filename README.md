@@ -91,8 +91,8 @@ Final Exam (non-accumulative) | 35%
 
 Event | Date
 ----- | ----
-Midterm Exam | March 27
-Recess | April 8 - April 16
+Midterm Exam | April 3
+Recess | April 8 - April 10
 Withdrawal Deadline | May 14
 Reading Day | May 15
 Final Exam | May 22 5:10-7:10 pm in North Bldg 1036
