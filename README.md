@@ -38,7 +38,7 @@ Field | Value
 **Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Office hours:** | F 3:00-5:00 pm or [by appointment](http://khatchad.setmore.com)
+**Office hours:** | F 3:00-5:00 pm on [Piazza](http://piazza.com/hunter.cuny/spring2020/csci40500771100/home) or [by appointment](http://khatchad.setmore.com)
 **Semester:** | Spring 2020
 **Section:** | CSCI 40500-01/CSCI 77100-01
 **Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
