@@ -1,4 +1,4 @@
-# CSCI 40500/77100: Software Engineering/Contemporary Application Development
+# CSCI 40500/77100: Software Engineering
 
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Hunter College.
 
