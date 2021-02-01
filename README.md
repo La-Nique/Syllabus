@@ -76,6 +76,10 @@ Withdrawal Deadline | May 17
 Reading Day | May 18
 Final Exam | May 19 5:20-7:20 pm
 
+## Credit/No Credit Policy & Special Enrollment Permission
+
+The instructor will not approve credit/no credit requests for this course. However, such requests may be approved by the college on a per-semester basis; students are encouraged to check the college policies. Students are also encouraged to discuss these options with their academic advisor. Special enrollment permissions, e.g., prerequisite waivers, will not be granted without substantial supporting evidence, e.g., sufficient professional experience.
+
 ## Organization
 
 ### Lectures
