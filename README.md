@@ -14,7 +14,7 @@ Field | Value
 **Phone:** | (212) 650-3988
 **Virtual office hours:** | [MW 1:30-2:30 pm][office hour]
 **Semester:** | Spring 2021
-**Section:** | CSCI 405001/77100-01
+**Section:** | CSCI 40500/77100-01
 **Instruction mode:** | Online (synchronous)
 **Meeting mechanism:** | Bb Collaborate Ultra
 **Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
