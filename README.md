@@ -55,6 +55,7 @@ Field | Value
 **Instruction mode:** | Online (synchronous)
 **Meeting mechanism:** | Bb Collaborate Ultra
 **Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
+**TA:** | [Ye Paing](mailto:ye.paing89@myhunter.cuny.edu)
 
 ## Course Description
 
