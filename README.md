@@ -45,7 +45,7 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 Field | Value
 ----- | -----
-**Instructor:** | [Raffi Khatchadourian](http://cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
+**Instructor:** | [Raffi Khatchadourian]
 **Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
@@ -262,7 +262,7 @@ Except for changes that substantially affect implementation of the evaluation (g
 
 ## Instructor Biography
 
-Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
+[Raffi Khatchadourian] is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
 
 ## Credits
 
@@ -272,3 +272,4 @@ Portions of this syllabus are based off the syllabus used for the [CEN 5035 Soft
 [textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/2655531
 [GitHub]: https://github.com/CSCI-40500-77100-Spring-2021/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
+[Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~Raffi.Khatchadourian99
