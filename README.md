@@ -20,7 +20,7 @@ Field | Value
 
 ## Course Description
 
-This course is intended to be an introductory survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the efficient engineering of high-quality software systems. This may include the understanding and appreciation of problems in large-scale software development such as functional analysis of information processing systems, system design concepts, timing estimates, documentation and system testing. 
+This course is intended to be an introductory survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the efficient engineering of high-quality software systems. This may include the understanding and appreciation of problems in large-scale software development such as functional analysis of information processing systems, system design concepts, timing estimates, documentation, and system testing.
 
 Software Engineering (SE) is concerned with all facets of software development, from the early stages of requirements engineering to maintaining the system after it has been deployed. This includes technical processes of software development as well as activities such as software project management and the development of tools, methods, and theories to support software development. This course is not a "programming" course per se, instead, it focuses on surveying some of the critical facets of SE that may be less familiar to students of Computer Science, such as identifying a development process appropriate to the circumstances, eliciting and documenting requirements, using reviews and inspections plus machine-based testing in software development, understanding software evolution in large, complex systems, issues associated with developing dependable software systems, and configuration management of large systems developed by multiple engineers.
 
@@ -32,7 +32,7 @@ Topic | Reading Chapter(s)
 --- | ---
 Software Products| 1
 Agile Software Engineering | 2
-Features, Scenarios and Stories | 3
+Features, Scenarios, and Stories | 3
 Software Architecture | 4
 Cloud-based Software | 5
 Microservices Architecture | 6
@@ -73,11 +73,11 @@ Midterm Exam | Apr 7
 Recess | Mar 27 - Apr 4
 Withdrawal Deadline | May 17
 Reading Day | May 18
-Final Exam | May 19 5:20-7:20 pm
+Final Exam | May 19, 5:20-7:20 pm
 
-## Credit/No Credit Policy & Special Enrollment Permission
+## Credit/No Credit Policy &amp; Special Enrollment Permission
 
-The instructor will not approve credit/no credit requests for this course. However, such requests may be approved by the college on a per-semester basis; students are encouraged to check the college policies. Students are also encouraged to discuss these options with their academic advisor. Special enrollment permissions, e.g., prerequisite waivers, will not be granted without substantial supporting evidence, e.g., sufficient professional experience.
+The instructor will not approve C/NC requests for this course. However, such requests may be approved by the college on a per-semester basis; students are encouraged to check the college policies. Students are also encouraged to discuss these options with their academic advisors. Special enrollment permissions, e.g., prerequisite waivers, will not be granted without substantial supporting evidence, e.g., sufficient professional experience.
 
 ## Organization
 
@@ -133,13 +133,13 @@ Our class will meet online (synchronous) during the registrar-allocated meeting 
 
 Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time.
 
-### Professional Presence & Communication
+### Professional Presence &amp; Communication
 
-A central focus of this course is to simulate the professional work environment of Software Engineers. Thus, every student is expected to present themselves in a professional manor, even remotely. Students with questions or who wish to participate during lecture are encouraged to "raise their hands" during the class period on Bb Collaborate Ultra. During the lab period, students are expected to fully (and solely) participate in their group activities under a professional demeanor.
+A central focus of this course is to simulate the professional work environment of Software Engineers. Thus, every student is expected to present themselves in a professional manner, even remotely. Students with questions or who wish to participate during the lecture are encouraged to "raise their hands" during the class period on Bb Collaborate Ultra. During the lab period, students are expected to fully (and solely) participate in their group activities under a professional demeanor.
 
-### Video & Audio Expectations
+### Video &amp; Audio Expectations
 
-Please be aware that the instructor in this course will require that the camera be on and audio be available during class sessions. Students that do not have cameras may [borrow a laptop][loan]. Students without microphones may call into the class sessions.
+Please be aware that the instructor in this course will require that the camera be on and audio is available during class sessions. Students that do not have cameras may [borrow a laptop][loan]. Students without microphones may call into the class sessions.
 
 ### Recording Policy
 
@@ -151,25 +151,25 @@ Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating o
 
 ## Email
 
-- Emails to the instructor must be via a CUNY email addresses for FERPA reasons.
+- Emails to the instructor must be via CUNY email addresses for FERPA reasons.
 - Include the *class name* or *number* in the *subject* line of the email.
 - Email thread *hijacking* is strongly discouraged. Ensure that the subject of your email matches its contents.
-- Post all class-related discussion on the Bb discussion board.
+- Post all class-related discussions on the Bb discussion board.
 - Ensure that your *correct* email address is entered into the CUNY Blackboard.
 
 ## Bulletin Board
 
-You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly, since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
+You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
 
-## Laptop Loans, Computer Science Facilities, & Labs
+## Laptop Loans, Computer Science Facilities, &amp; Labs
 
 - Laptops and other computing equipment is available for [loan] through Hunter College.
 - All Computer Science students can (remotely) use any of the general-purpose labs throughout Hunter College.
-- Computer Science majors and students enrolled in CSCI courses can an obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
+- Computer Science majors and students enrolled in CSCI courses can obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
 
-## Counseling & Wellness Services
+## Counseling &amp; Wellness Services
 
-Counseling & Wellness Services (CWS) provides mental health, health and wellness services aimed at enhancing students' quality of life and maximizing personal and academic growth and development. More information can be found on the [Counseling & Wellness Services website](http://www.hunter.cuny.edu/studentservices/counseling-and-wellness).
+Counseling &amp; Wellness Services (CWS) provides mental health, health, and wellness services aimed at enhancing students' quality of life and maximizing personal and academic growth and development. More information can be found on the [Counseling &amp; Wellness Services website](http://www.hunter.cuny.edu/studentservices/counseling-and-wellness).
 
 ## Special Needs
 
@@ -177,7 +177,7 @@ Students with special needs should see me for accommodation.
 
 ## ADA Compliance
 
-In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and / or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and / or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call (212-772-4857)/TTY (212-650-3230).
+In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and/or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and/or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call (212-772-4857)/TTY (212-650-3230).
 
 ## Family Educational Rights and Privacy Act (FERPA) 
 
@@ -211,23 +211,23 @@ Washington, D.C. 20202-8520
 
 ## Sexual Misconduct
 
-In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
+In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off-campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
 
 a. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
 
-b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complimentary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
+b. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complementary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
 
 ## Syllabus Change Policy
 
-Except for changes that substantially affect implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice. Students will find out about changes to the syllabus via [GitHub].
+Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice. Students will find out about changes to the syllabus via [GitHub].
 
 ## Instructor Biography
 
-[Raffi Khatchadourian] is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
+[Raffi Khatchadourian] is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and Ph.D. degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App Store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
 
 ## Credits
 
-Portions of this syllabus are based off the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science & Engineering, University of Florida by Steve Thebaut.
+Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut.
 
 [office hour]: https://huntercollege.zoom.us/j/91567295027
 [textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/2655531
