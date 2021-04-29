@@ -2,45 +2,6 @@
 
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Hunter College.
 
-## Table of Contents
-
-* [Details](#details)
-* [Course Description](#course-description)
-* [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
-* [Prerequisites](#prerequisites)
-* [Textbook](#textbook)
-* [Grading](#grading)
-* [Key Dates](#key-dates)
-* [Credit/No Credit Policy &amp; Special Enrollment Permission](#creditno-credit-policy--special-enrollment-permission)
-* [Organization](#organization)
-    * [Lectures](#lectures)
-    * [Lab](#lab)
-    * [Homework](#homework)
-    * [Project](#project)
-    * [Presentation](#presentation)
-    * [Notes](#notes)
-    * [Exams](#exams)
-* [Class Meetings](#class-meetings)
-    * [Meeting Mechanism](#meeting-mechanism)
-    * [Attendance](#attendance)
-    * [Professional Presence &amp; Communication](#professional-presence--communication)
-    * [Video &amp; Audio Expectations](#video--audio-expectations)
-    * [Recording Policy](#recording-policy)
-* [Academic Violations](#academic-violations)
-* [Email](#email)
-* [Bulletin Board](#bulletin-board)
-* [Laptop Loans, Computer Science Facilities, &amp; Labs](#laptop-loans-computer-science-facilities--labs)
-* [Counseling &amp; Wellness Services](#counseling--wellness-services)
-* [Special Needs](#special-needs)
-* [ADA Compliance](#ada-compliance)
-* [Family Educational Rights and Privacy Act (FERPA)](#family-educational-rights-and-privacy-act-ferpa)
-* [Sexual Misconduct](#sexual-misconduct)
-* [Syllabus Change Policy](#syllabus-change-policy)
-* [Instructor Biography](#instructor-biography)
-* [Credits](#credits)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
-
 ## Details 
 
 Field | Value
