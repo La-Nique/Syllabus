@@ -108,7 +108,7 @@ Participation | 5%
 
 Event | Date
 ----- | ----
-Midterm Exam | TBD
+Midterm Exam | Apr 7
 Recess | Mar 27 - Apr 4
 Withdrawal Deadline | May 17
 Reading Day | May 18
