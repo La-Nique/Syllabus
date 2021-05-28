@@ -35,13 +35,17 @@ Agile Software Engineering | 2
 Features, Scenarios, and Stories | 3
 Software Architecture | 4
 Cloud-based Software | 5
+[NoSQL vs SQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql) | N/A
 Microservices Architecture | 6
+[Serverless Computing](https://martinfowler.com/articles/serverless.html) | N/A
+[Serverless (FaaS) vs. Containers](https://www.serverless.com/blog/serverless-faas-vs-containers) | N/A
 Security and Privacy | 7
+[Web Application Security](https://martinfowler.com/articles/web-security-basics.html) | N/A
 Reliable Programming | 8
 Testing | 9
 DevOps and Code Management | 10
 
-If time permits, other topics may be covered at the instructor's discretion. 
+Students are required to read the linked articles if no chapter is specified above. If time permits, other topics may be covered at the instructor's discretion, in which case the instructor will distribute any supplementary material.
 
 ## Prerequisites
 
