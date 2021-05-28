@@ -147,7 +147,7 @@ Video and audio use by students during the class period is strongly encouraged. 
 
 ### Recording Policy
 
-Please be advised that students who participate in this class with their camera on or use a profile image are agreeing to have their video or image recorded solely for the purpose of creating a record for students enrolled in the class to refer to, including those enrolled students who are unable to attend live.
+Please be advised that students who participate in this class with their camera on or use a profile image are may have their video or image recorded solely for the purpose of creating a record for students enrolled in the class to refer to, including those enrolled students who are unable to attend live. Under no circumstances will such videos be distributed publicly.
 
 ## Academic Violations
 
