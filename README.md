@@ -1,115 +1,66 @@
-# CSCI 40500/77100: Software Engineering
+# CSCI 33500: Software Analysis and Design 3
 
 3 hrs, 3 credits. Computer Science, City University of New York (CUNY) Hunter College.
 
 ## Details 
 
 Field | Value
------ | -----
+-- | --
 **Instructor:** | [Raffi Khatchadourian]
 **Office:** | 1090H Hunter North Building
 **Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Virtual office hours:** | [MW 1:30-2:30 pm][office hour]
-**Semester:** | Spring 2021
-**Section:** | CSCI 40500/77100-01
-**Instruction mode:** | Online (synchronous)
-**Meeting mechanism:** | Bb Collaborate Ultra
-**Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
-**TA:** | [Ye Paing](mailto:ye.paing89@myhunter.cuny.edu)
+**Office hours:** | TF 4:00-5:00 pm
+**Semester:** | Spring 2022
+**Section:** | CSCI 33500-01
+<!-- **Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu) -->
+<!-- **TA:** | [Ye Paing](mailto:ye.paing89@myhunter.cuny.edu) -->
 
-## Course Description
+## Course Content and Objectives
 
-This course is intended to be an introductory survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the efficient engineering of high-quality software systems. This may include the understanding and appreciation of problems in large-scale software development such as functional analysis of information processing systems, system design concepts, timing estimates, documentation, and system testing.
-
-Software Engineering (SE) is concerned with all facets of software development, from the early stages of requirements engineering to maintaining the system after it has been deployed. This includes technical processes of software development as well as activities such as software project management and the development of tools, methods, and theories to support software development. This course is not a "programming" course per se, instead, it focuses on surveying some of the critical facets of SE that may be less familiar to students of Computer Science, such as identifying a development process appropriate to the circumstances, eliciting and documenting requirements, using reviews and inspections plus machine-based testing in software development, understanding software evolution in large, complex systems, issues associated with developing dependable software systems, and configuration management of large systems developed by multiple engineers.
-
-## Outline and Schedule of Course Topics
-
-The following topics will be covered in the given order:
-
-Topic | Reading Chapter(s)
---- | ---
-Software Products| 1
-Agile Software Engineering | 2
-Features, Scenarios, and Stories | 3
-Software Architecture | 4
-Cloud-based Software | 5
-[NoSQL vs SQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql) | N/A
-Microservices Architecture | 6
-[Serverless Computing](https://martinfowler.com/articles/serverless.html) | N/A
-[Serverless (FaaS) vs. Containers](https://www.serverless.com/blog/serverless-faas-vs-containers) | N/A
-Security and Privacy | 7
-[Web Application Security](https://martinfowler.com/articles/web-security-basics.html) | N/A
-Reliable Programming | 8
-Testing | 9
-DevOps and Code Management | 10
-
-Students are required to read the linked articles if no chapter is specified above. If time permits, other topics may be covered at the instructor's discretion, in which case the instructor will distribute any supplementary material.
+This course is the sequel to CSCI 235, and as such, a major objective is to deepen and enhance your programming skills as well as knowledge of various advanced algorithms. The course will cover algorithm analysis, advanced trees, special priority queues, sorting algorithms, disjoint sets, graph algorithms, dynamic programming, randomized algorithms, and amortization analysis.
 
 ## Prerequisites
 
-- CSCI 33500: Software Analysis and Design III or equivalent.
+- CSCI 23500
+- MATH 15500
 
-Students must be familiar with a modern Object-Oriented programming language such as Java or Python and must be familiar with common computing terminology. The examples in the book are in Python but should be understandable by anyone with programming experience.
+## [Textbooks]
 
-## [Textbook]
+Title | Publisher | Edition | Author | ISBN | Type | Comment
+-- | -- | -- | -- | -- | -- | --
+Data Structures and Algorithm Analysis in C++ | Pearson | 4 |  Mark Allen Weiss | 978-0132847377 | Required
+Introduction to Algorithms | McGraw-Hill | | Cormen, Leiserson, Rivest, and Stein | | Optional | Comprehensive and advanced.
+The Art of Computer Programming, Volumes I through III | Addison-Wesley | | Knuth | | Optional | Valuable texts for Computer Scientists.
+Algorithms in C++, Parts 1--4 and Part 5 | Addison-Wesley | | Robert Sedgewick | | Optional | In-depth algorithm analysis.
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 | | | Scott Meyers | | Optional | Modern C++ techniques.
 
-Title | Author | ISBN | Type
--- | -- | -- | --
-[Engineering Software Products](https://books.google.com/books?id=M2kNuwEACAAJ) | Sommerville, I. | 978-0135210642 | Required
+## Succeeding in this Course
 
-## Grading
+If you want to succeed in this course, do *all* of the following:
 
-Category | Percentage
--------- | ----------
-Assignments | 15%
-Midterm Exam | 30%
-Final Exam (non-accumulative) | 30%
-Project | 20%
-Participation | 5%
-
-## Key Dates
-
-Event | Date
------ | ----
-Midterm Exam | Apr 7
-Recess | Mar 27 - Apr 4
-Withdrawal Deadline | May 17
-Reading Day | May 18
-Final Exam | May 19, 5:20-7:20 pm
-
-## Credit/No Credit Policy &amp; Special Enrollment Permission
-
-The instructor will not approve C/NC requests for this course. However, such requests may be approved by the college on a per-semester basis; students are encouraged to check the college policies. Students are also encouraged to discuss these options with their academic advisors. Special enrollment permissions, e.g., prerequisite waivers, will not be granted without substantial supporting evidence, e.g., sufficient professional experience.
+- Do the assigned readings *before* the lecture, *not* *after* it.
+- Make a list of questions before the class.
+- Submit all assignments on time.
+- Solve a set of problems at the end of each chapter.
+- Study for exams.
+- Do all assignments yourself\! Expect severe penalties for plagiarism.
 
 ## Organization
 
-### Lectures
+### Syllabus and Readings
 
-The first hour of each class session will include a lecture on the day's topic.
+At the end of this document, you can see which parts of the textbook we will cover. You are responsible for everything in the listed chapters regardless of how much time we spend on them in class. As noted above, you should read ahead so that you can ask questions in class to clear up anything you find confusing.
 
-### Lab
+### Assignments
 
-The remaining time in each class session will be devoted to lab work, where students will work together with their lab partners on a semester-long project.
+No one can become proficient at programming without writing many programs. I will assign five assignments during the semester.
 
-### Homework
+Every program must satisfy the programming rules stated in the `KhatchadourianSpring2022Programming Rules.pdf` (posted on Blackboard) document. Please read it very carefully. Rules governing lateness, plagiarism, and how they are graded are also contained there. You are *not* allowed to work in groups. You can discuss about the assignments. However, copying of pieces of code among peers is a serious problem. It is critically important that all submitted program listings and executions be thoroughly documented. Each assignment will count for 12% of your final grade. That means that the five assignments will constitute 60% of your final grade. You are allowed to use the source code that is provided by the book.
 
-Homework will be assigned after each chapter read. It may include questions at the end of the chapter and/or short coding assignments depending on the material. Each will be assigned in Blackboard along with submission instructions. I have designed this course to be **self-contained**. Thus, **the only resources you need to answer the questions are contained within the course**. Searching the web (e.g., Google) for answers is not only *unnecessary* but also risks [academic violations](#academic-violations), which can result in course failure.
+All programs must compile and run. Zero credit will be given for programs that do not compile or do not run. The homework assignments will only state the major objectives of the program to be written; it will be often up to you to make design decisions regarding I/O, efficiency, error handling, and so on. Make sure you provide adequate test cases to indicate the correctness and robustness of your approaches.
 
-### Project
-
-Students will work together in assigned groups on a semester-long project. The project must incorporate the lessons learned from the week's topic. Thus, the project will be done incrementally throughout the semester. However, the project will require the following *each and every week*:
-
-1. A working prototype of the project. This can be as simple as a project skeleton. Be prepared to "throw away" the prototype each week for the first few weeks as your knowledge of the course progresses.
-1. Code hosted on our GitHub Classroom.
-1. Working tests invoked via continuous integration (CI).
-
-Please inform the instructor if your group requires any computing resources from the Computer Science department to complete your project.
-
-### Presentation
-
-A select number of groups may be asked to present their final projects towards the end of the semester.
+Each will be assigned in Blackboard along with submission instructions. I have designed this course to be **self-contained**. Thus, **the only resources you need to answer the questions are contained within the course**. Searching the web (e.g., Google) for answers is not only *unnecessary* but also risks [academic violations](#academic-violations), which can result in course failure.
 
 ### Notes
 
@@ -125,51 +76,105 @@ Test make-ups will be given if and only if:
 - the request is made sufficiently in advance of the test, and
 - the make-up is scheduled prior to the next class.
 
-Proctoring software, which may include the use of browser lock-downs and cameras, may be used for examinations in this course.
-
 ## Class Meetings
 
-### Meeting Mechanism
+### Professional Presence
 
-Our class will meet online (synchronous) during the registrar-allocated meeting time. We will be using Bb Collaborate Ultra.
+Every student is expected to present themselves in a professional manner. Students with questions or who wish to participate during the lecture are encouraged to raise their hands during class.
 
 ### Attendance
 
 Attendance is expected for *each and every class* meeting. The instructor will start the class on time, and students are expected to be present on time.
 
-### Professional Presence &amp; Communication
+## Course Material and Communication
 
-A central focus of this course is to simulate the professional work environment of Software Engineers. Thus, every student is expected to present themselves in a professional manner, even remotely. Students with questions or who wish to participate during the lecture are encouraged to "raise their hands" during the class period on Bb Collaborate Ultra. During the lab period, students are expected to fully (and solely) participate in their group activities under a professional demeanor.
+All course material (e.g., slides, course documents, announcements, homework) will be posted on *Blackboard*.
 
-### Video &amp; Audio Expectations
+### Email
 
-Video and audio use by students during the class period is strongly encouraged. Students that do not have cameras may [borrow a laptop][loan]. Students without microphones may call into the class sessions.
+- Emails to the instructor must be via a CUNY Hunter College email addresses for FERPA reasons.
+- Include the *class name* or *number* in the *subject* line of the email.
+- Email thread *hijacking* is strongly discouraged. Ensure that the subject of your email matches its contents.
+- Post all class-related discussions on the *Bb discussion board*. Students are highly encouraged to "subscribe" to the *general* forum to receive email notifications regarding new posts.
+- Ensure that your *correct* (CUNY) email address is entered into the CUNY Blackboard.
 
-### Recording Policy
+### Bulletin Board
 
-Please be advised that students who participate in this class with their camera on or use a profile image are may have their video or image recorded solely for the purpose of creating a record for students enrolled in the class to refer to, including those enrolled students who are unable to attend live. Under no circumstances will such videos be distributed publicly.
+You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
+
+## Grading
+
+Category | Percentage
+-------- | ----------
+Assignments (5; lowest grade dropped) | 60%
+Midterm Exam | 15%
+Final Exam (non-accumulative) | 25%
+
+## Key Dates
+
+Event | Date
+----- | ----
+College Closed–No classes scheduled | Feb 11
+Midterm Exam | Mar 11
+Recess | Apr 15 - Apr 22
+Withdrawal Deadline | May 17
+Reading Day | May 18
+Final Exam | TBD
+
+## Resources
+
+Source code from the book can be found [here](http://users.cs.fiu.edu/~weiss).
+
+### C++ STL
+
+- [Introduction to the Standard Template Library](http://www.sgi.com/tech/stl)
+- [Containers - C++ Reference](https://www.cplusplus.com/reference/stl)
+- [Containers library](http://www.cppreference.com/wiki/stl/start)
+- [C++ STL Tutorial](http://www.yolinux.com/TUTORIALS/LinuxTutorialC++STL.html)
+
+### C++ STL Exceptions
+
+- [`std::exception`](https://en.cppreference.com/w/cpp/error/exception)
+
+### Source Code Documentation Generating Tool (Doxygen)
+
+- [Doxygen](https://www.doxygen.nl)
+- [Doxygen Manual: Documenting the code](https://www.doxygen.nl/manual/docblocks.html)
+
+## Learning goals
+
+This class satisfies the following learning goals:
+
+1. Demonstrate an understanding of the basic foundations and relevant applications of mathematics and statistics, particularly those branches related to computer science.
+1. Understand the relationship between computer architectures and software systems.
+1. Deep practical knowledge of one widely used programming language (C++).
+1. Be experienced in working in at least two widely used operating system environments.
+1. Be able to apply principles of design and analysis in creating substantial programs.
+1. Be able to communicate technical ideas effectively, both in writing and in oral presentations.
 
 ## Academic Violations
 
 CUNY Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating on examinations, obtaining unfair advantage, and falsification of records and official documents) as serious offenses against the values of intellectual honesty. The college is committed to enforcing the CUNY Policy on Academic Integrity and will pursue cases of academic dishonesty according to the Hunter College Academic Integrity Procedures. Special attention is given to CONTRACT CHEATING (this is where students have work completed on their behalf which is then submitted for academic credit). Academic violations will be pursued to the fullest extent possible, including failure from the course.
 
-## Email
+## Computer Science Facilities, &amp; Labs
 
-- Emails to the instructor must be via CUNY email addresses for FERPA reasons.
-- Include the *class name* or *number* in the *subject* line of the email.
-- Email thread *hijacking* is strongly discouraged. Ensure that the subject of your email matches its contents.
-- Post all class-related discussions on the Bb discussion board.
-- Ensure that your *correct* email address is entered into the CUNY Blackboard.
-
-## Bulletin Board
-
-You should check the [Blackboard](http://bbhosted.cuny.edu) site regularly since all class material will be posted there. Please make sure you have configured Bb to use your *CUNY email address*. You are responsible for any email the instructors might send there.
-
-## Laptop Loans, Computer Science Facilities, &amp; Labs
-
-- Laptops and other computing equipment is available for [loan] through Hunter College.
-- All Computer Science students can (remotely) use any of the general-purpose labs throughout Hunter College.
+- All Computer Science students can use any of the general-purpose labs throughout Hunter College.
 - Computer Science majors and students enrolled in CSCI courses can obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
+
+## Credit/No Credit Policy &amp; Special Enrollment Permission
+
+The instructor will not approve C/NC requests for this course. However, such requests may be approved by the college on a per-semester basis; students are encouraged to check the college policies. Students are also encouraged to discuss these options with their academic advisors. Special enrollment permissions, e.g., prerequisite waivers, will not be granted without substantial supporting evidence, e.g., sufficient professional experience.
+
+## ADA Compliance
+
+In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and/or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and/or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call (212-772-4857)/TTY (212-650-3230).
+
+## Sexual Misconduct
+
+In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off-campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
+
+1. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
+1. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complementary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
 
 ## Counseling &amp; Wellness Services
 
@@ -178,10 +183,6 @@ Counseling &amp; Wellness Services (CWS) provides mental health, health, and wel
 ## Special Needs
 
 Students with special needs should see me for accommodation *at least* two weeks prior to the due date of any assignment or exam.
-
-## ADA Compliance
-
-In compliance with the American Disability Act of 1990 (ADA) and with Section 504 of the Rehabilitation Act of 1973, Hunter College is committed to ensuring educational parity and accommodations for all students with documented disabilities and/or medical conditions. It is recommended that all students with documented disabilities (Emotional, Medical, Physical and/or Learning) consult the Office of Accessibility located in Room E1124 to secure necessary academic accommodations. For further information and assistance please call (212-772-4857)/TTY (212-650-3230).
 
 ## Family Educational Rights and Privacy Act (FERPA) 
 
@@ -213,27 +214,46 @@ U.S. Department of Education
 400 Maryland Avenue, SW
 Washington, D.C. 20202-8520
 
-## Sexual Misconduct
+## Outline and Schedule of Course Topics
 
-In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirms the prohibition of any sexual misconduct, which includes sexual violence, sexual harassment, and gender-based harassment retaliation against students, employees, or visitors, as well as certain intimate relationships. Students who have experienced any form of sexual violence on or off-campus (including CUNY-sponsored trips and events) are entitled to the rights outlined in the Bill of Rights for Hunter College.
-
-1. Sexual Violence: Students are strongly encouraged to immediately report the incident by calling 911, contacting NYPD Special Victims Division Hotline (646-610-7272) or their local police precinct, or contacting the College's Public Safety Office (212-772-4444).
-1. All Other Forms of Sexual Misconduct: Students are also encouraged to contact the College's Title IX Campus Coordinator, Dean John Rose (jtrose@hunter.cuny.edu or 212-650-3262) or Colleen Barry (colleen.barry@hunter.cuny.edu or 212-772-4534) and seek complementary services through the Counseling and Wellness Services Office, Hunter East 1123. CUNY Policy on Sexual Misconduct Link: http://www.cuny.edu/about/administration/offices/la/Policy-on-Sexual-Misconduct-12-1-14-with-links.pdf
-
-## Syllabus Change Policy
-
-Except for changes that substantially affect the implementation of the evaluation (grading) statement, this syllabus is a guide for the course and is subject to change with advance notice. Students will find out about changes to the syllabus via [GitHub].
+Date | Topics | Reading (Ch.) | Deadlines
+-- | -- | -- | --
+F, 1/28 | L1. Introduction - C++ basics** | 1 |
+T, 2/1 | L2. -//- | \-//- |
+F, 2/4 | L3. Algorithm Analysis | 2 |
+T, 2/8 | L4. Review of Vector/List and Iterators | 3 |
+F, 2/11 | **No class** | |
+T, 2/15 | L5. Review (cont.) | |
+F, 2/18 | L6. Trees (AVL) | 4.1-4.3 | \#1 due
+T, 2/22 | L7. Trees (cont.) | |
+F, 2/25 | L8. Trees (Splay Trees, B-Trees) | 4.5, 4.6-4.7 |
+T, 3/1 | L9. Sets/Maps | 4.8 |
+F, 3/4 | L10. Hashing | Chapter 5 |
+T, 3/8 | L11. -//- | |
+F, 3/11 | **Midterm** | |  \#2 due
+T, 3/15 | L12. Heaps | 6 |
+F, 3/18 | L13. Heaps| \-//- |
+T, 3/22 | L14. Heaps | \-//- |
+F, 3/25 | L15. Sorting | 7.1-7.7 |
+T, 3/29 | L16. Sorting | 7.8-7.9 |
+F, 4/1 | L17. Union/Find | 8 | \#3 due
+T, 4/5 | L18. Graph Algorithms | 9.1-9.3 |
+F, 4/8 | L19. -//- | 9.4-9.6 |
+T, 4/12 | L18. -//- (NP) | 9.7 |
+F, 4/15 | **No class - Spring Break** | |
+T, 4/19 | **No class - Spring Break** | |
+F, 4/22 | **No class - Spring Break** | |
+T, 4/26 | L20. Greedy Algorithms | 10.1.1, 10.1.3 |
+F, 4/29 | L19. Divide and Conquer | 10.2 | \#4 due
+T, 5/3 | L21. Divide and Conquer (cont.) | |
+F, 5/6 | L22. Dynamic Programming | 10.3 | |
+T, 5/10 | L23. -//- | | |
+F, 5/13 | L24. Randomized Algorithms/Final Review (time permitting) | 10.4 | \#5 due
+TBD | **FINAL EXAM** | | |
 
 ## Instructor Biography
 
 [Raffi Khatchadourian] is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and Ph.D. degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App Store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. Raffi's research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
 
-## Credits
-
-Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut.
-
-[office hour]: https://huntercollege.zoom.us/j/91567295027
-[textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/2655531
-[GitHub]: https://github.com/CSCI-40500-77100-Spring-2021/Syllabus/commits/master
-[loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
+[textbooks]: https://hunter.textbookx.com/institutional/?action=browse#/books/3030121
 [Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~Raffi.Khatchadourian99
