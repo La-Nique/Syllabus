@@ -228,9 +228,9 @@ F, 2/18 | L6. Trees (AVL) | 4.1-4.3 | \#1 due
 T, 2/22 | L7. Trees (cont.) | |
 F, 2/25 | L8. Trees (Splay Trees, B-Trees) | 4.5, 4.6-4.7 |
 T, 3/1 | L9. Sets/Maps | 4.8 |
-F, 3/4 | L10. Hashing | Chapter 5 |
+F, 3/4 | L10. Hashing | 5 |
 T, 3/8 | L11. -//- | |
-F, 3/11 | **Midterm** | |  \#2 due
+F, 3/11 | **Midterm Exam** | |  \#2 due
 T, 3/15 | L12. Heaps | 6 |
 F, 3/18 | L13. Heaps| \-//- |
 T, 3/22 | L14. Heaps | \-//- |
@@ -249,7 +249,7 @@ T, 5/3 | L21. Divide and Conquer (cont.) | |
 F, 5/6 | L22. Dynamic Programming | 10.3 | |
 T, 5/10 | L23. -//- | | |
 F, 5/13 | L24. Randomized Algorithms/Final Review (time permitting) | 10.4 | \#5 due
-TBD | **FINAL EXAM** | | |
+TBD | **Final Exam** | | |
 
 ## Instructor Biography
 
