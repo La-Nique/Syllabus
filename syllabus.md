@@ -121,7 +121,7 @@ Final Exam | TBD
 
 ## Resources
 
-Source code from the book can be found [here](http://users.cs.fiu.edu/~weiss).
+Source code from the book can be found [here](http://users.cs.fiu.edu/~weiss/dsaa_c++4/code).
 
 ### C++ STL
 
