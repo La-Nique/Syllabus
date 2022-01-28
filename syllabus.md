@@ -13,8 +13,6 @@ Field | Value
 **Office hours:** | TF 4:00-5:00 pm
 **Semester:** | Spring 2022
 **Section:** | CSCI 33500-01
-<!-- **Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu) -->
-<!-- **TA:** | [Ye Paing](mailto:ye.paing89@myhunter.cuny.edu) -->
 
 ## Course Content and Objectives
 
