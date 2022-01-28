@@ -216,7 +216,7 @@ Washington, D.C. 20202-8520
 
 Date | Topics | Reading (Ch.) | Deadlines
 -- | -- | -- | --
-F, 1/28 | L1. Introduction - C++ basics** | 1 |
+F, 1/28 | L1. Introduction - C++ basics | 1 |
 T, 2/1 | L2. -//- | \-//- |
 F, 2/4 | L3. Algorithm Analysis | 2 |
 T, 2/8 | L4. Review of Vector/List and Iterators | 3 |
