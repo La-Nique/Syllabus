@@ -247,7 +247,7 @@ T, 5/3 | L21. Divide and Conquer (cont.) | |
 F, 5/6 | L22. Dynamic Programming | 10.3 | |
 T, 5/10 | L23. -//- | | |
 F, 5/13 | L24. Randomized Algorithms/Final Review (time permitting) | 10.4 | \#5 due
-TBD | **Final Exam** | | |
+F, 5/24 | **Final Exam 11:30--1:30 pm** | | |
 
 ## Instructor Biography
 
