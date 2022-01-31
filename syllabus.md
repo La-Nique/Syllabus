@@ -212,6 +212,10 @@ U.S. Department of Education
 400 Maryland Avenue, SW
 Washington, D.C. 20202-8520
 
+## Syllabus Change Policy
+
+This syllabus is subject to change. Students may be informed of changes via [GitHub].
+
 ## Outline and Schedule of Course Topics
 
 Date | Topics | Reading (Ch.) | Deadlines
@@ -255,3 +259,4 @@ F, 5/24 | **Final Exam 11:30--1:30 pm** | | |
 
 [textbooks]: https://hunter.textbookx.com/institutional/?action=browse#/books/3030121
 [Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~Raffi.Khatchadourian99
+[GitHub]: https://github.com/CSCI-33500-Fall-2022/Syllabus/commits/master
