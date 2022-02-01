@@ -16,7 +16,7 @@ Field | Value
 
 ## Course Content and Objectives
 
-This course is the sequel to CSCI 235, and as such, a major objective is to deepen and enhance your programming skills as well as knowledge of various advanced algorithms. The course will cover algorithm analysis, advanced trees, special priority queues, sorting algorithms, disjoint sets, graph algorithms, dynamic programming, randomized algorithms, and amortization analysis.
+This course is the sequel to CSCI 235, and as such, a major objective is to deepen and enhance your programming skills as well as knowledge of various advanced algorithms. The course will cover algorithm analysis, advanced trees, special priority queues, sorting algorithms, disjoint sets, graph algorithms, dynamic programming, randomized algorithms, and amortized analysis.
 
 ## Prerequisites
 
