@@ -157,7 +157,7 @@ CUNY Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheat
 ## Computer Science Facilities &amp; Labs
 
 - All Computer Science students can use any of the general-purpose labs throughout Hunter College.
-- Computer Science majors and students enrolled in CSCI courses can obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://www.hunter.cuny.edu/csci/about-cs/computer-science-facilities-labs).
+- Computer Science majors and students enrolled in CSCI courses can obtain an account on the Computer Science Department Network. More information can be found on the [Computer Science Department's website](http://cs.hunter.cuny.edu/~csdir).
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
